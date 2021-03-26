@@ -1,5 +1,18 @@
+@import url('https://fonts.googleapis.com/css2?family=Teko:wght@600&display=swap');
+
 body {
+    font-family: 'Teko', sans-serif;
     background-image: url('../img/gym_bg.jpg');
     background-size: cover;
     background-repeat: no-repeat no-repeat;
+}
+
+.navbar-dark .navbar-brand {
+    color: #e23d3d;
+}
+.navbar-dark .navbar-nav .nav-link {
+    color: #cd5c5c;
+}
+.navbar-dark .navbar-nav .nav-link.active {
+    color: #e23d3d;
 }
