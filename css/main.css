@@ -16,3 +16,7 @@ body {
 .navbar-dark .navbar-nav .nav-link.active {
     color: #e23d3d;
 }
+
+.lh-75 {
+    line-height: 0.75;
+}
