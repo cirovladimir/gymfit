@@ -1,0 +1,1 @@
+This is a starter template for a gym webpage based on https://themes.muffingroup.com/be/gym3/
